@@ -13,6 +13,9 @@ dist/
 .DS_Store
 Thumbs.db
 
+# Local dev tooling (machine-specific)
+.claude/
+
 # IDE
 .vscode/*
 !.vscode/extensions.json
